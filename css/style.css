@@ -38,23 +38,45 @@
 /* /container */
 
 .part {
-
+    width: 90%;
+    margin: auto;
 }
 
-.circle_check {
+h2 {
+    font-size: 1.5rem;
+}
+
+.check {
     color: #69c3ae;
     border: #69c3ae solid;
     border-radius: 50%;
-    padding: 0.5rem;
+}
+
+.cross {
+    color: #e8433b;
+    border: #e8433b solid;
+    border-radius: 50%;
 }
 
 .marker {
    border-radius: 2px;
    color: white;
-   font-size: 0.7rem;
-   padding: 1px;
+   font-size: 0.6rem;
+   padding: 3px;
 }
 
 .bg_lightblue {
     background-color: #45abea;
+}
+
+.bg_violet {
+    background-color: #9c72e4;
+}
+
+.bg_green {
+    background-color: #64c0a9;
+}
+
+.bg_orange {
+    background-color: #f29e33;
 }
