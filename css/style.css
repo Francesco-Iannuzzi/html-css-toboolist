@@ -1,0 +1,60 @@
+.logo_text {
+    color: #000000;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.app_main {
+    background-color: #f6f8f9;
+    padding-top: 3rem;
+}
+
+.container {
+    background-color: #ffffff;
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.selector {
+    border-bottom: solid #f4f7f8;
+    padding: 1rem;
+}
+
+#blue_button {
+    color: white;
+    background-color: #47adf1;
+    border-radius: 2px;
+    border-color: white;
+}
+
+#white_button {
+    color: grey;
+    background-color: white;
+    border-radius: 2px;
+    border-color: white;
+}
+/* /container */
+
+.part {
+
+}
+
+.circle_check {
+    color: #69c3ae;
+    border: #69c3ae solid;
+    border-radius: 50%;
+    padding: 0.5rem;
+}
+
+.marker {
+   border-radius: 2px;
+   color: white;
+   font-size: 0.7rem;
+   padding: 1px;
+}
+
+.bg_lightblue {
+    background-color: #45abea;
+}
