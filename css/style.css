@@ -34,7 +34,6 @@ body{
 }
 
 .selector {
-    border-bottom: solid #f4f7f8;
     padding-top: 1rem;
     padding-bottom: 0.2rem;
 }
@@ -49,12 +48,16 @@ body{
 }
 
 #white_button {
-    color: grey;
+    color: #ced3d7;
     background-color: white;
     border-radius: 5px;
     border-color: white;
     width: 90px;
     height: 30px;
+}
+
+#divider {
+    border: thin solid #f4f7f8;
 }
 
 h2 {
