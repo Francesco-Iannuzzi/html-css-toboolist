@@ -61,11 +61,13 @@ body{
 }
 
 h2 {
+    color: #444851;
     margin-top: 2rem;
     margin-bottom: 0;
 }
 
 span {
+    color: #444851;
     display: inline-block;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
