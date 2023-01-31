@@ -20,7 +20,6 @@ body{
 }
 
 .container {
-    background-color: #ffffff;
     width: 70%;
     margin: auto;
     background-color: white;
@@ -80,13 +79,13 @@ span {
 
 .check {
     color: #69c3ae;
-    border: #69c3ae solid;
+    border: 1px #69c3ae solid;
     border-radius: 50%;
 }
 
 .cross {
     color: #e8433b;
-    border: #e8433b solid;
+    border: 1px #e8433b solid;
     border-radius: 50%;
 }
 
