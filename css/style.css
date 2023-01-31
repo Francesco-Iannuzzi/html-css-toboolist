@@ -7,6 +7,7 @@
 .app_main {
     background-color: #f6f8f9;
     padding-top: 3rem;
+    padding-bottom: 2rem;
 }
 
 .container {
@@ -14,12 +15,13 @@
     width: 70%;
     margin: auto;
     background-color: white;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .selector {
     border-bottom: solid #f4f7f8;
-    padding: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 0.2rem;
 }
 
 #blue_button {
@@ -79,4 +81,19 @@ h2 {
 
 .bg_orange {
     background-color: #f29e33;
+}
+
+.bg_pink {
+    background-color: #d863a1;
+}
+
+.bg_lime {
+    background-color: #b0c926;
+}
+/* /Main */
+
+footer {
+    padding-top: 2rem;
+    text-align: center;
+    font-size: 1rem;
 }
