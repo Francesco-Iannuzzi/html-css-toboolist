@@ -1,7 +1,9 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 .app_header {
-    padding-bottom: 0;
-    line-height: 2rem;
-    vertical-align: middle;
+    line-height: 1;
 }
 
 .logo_text {
@@ -43,6 +45,7 @@
     border-radius: 5px;
     border-color: white;
     width: 90px;
+    height: 30px;
 }
 
 #white_button {
@@ -51,6 +54,7 @@
     border-radius: 5px;
     border-color: white;
     width: 90px;
+    height: 30px;
 }
 
 h2 {
