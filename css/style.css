@@ -72,15 +72,15 @@ ul {
 
 li {
     color: #444851;
-    display: inline-block;
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
 }
 
 .circle {
     font-size: 0.7rem;
     padding: 3px 6px;
-    margin-right: 0.2rem;
+    margin-right: 0.5rem;
 }
 
 .check {
@@ -101,6 +101,9 @@ li {
    font-size: 0.6rem;
    padding: 3px;
    padding: 5px 10px;
+   margin-left: 0.6rem;
+   vertical-align: middle;
+   line-height: 1rem;
 }
 
 .bg_lightblue {
