@@ -66,6 +66,10 @@ h2 {
     margin-bottom: 0;
 }
 
+ul {
+    padding-inline-start: 0;
+}
+
 li {
     color: #444851;
     display: inline-block;
